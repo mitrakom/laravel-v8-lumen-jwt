@@ -23,4 +23,4 @@ User:
 
 ## Contributing
 
-Gafur, S.Kom
+mgafur
