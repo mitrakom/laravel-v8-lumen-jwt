@@ -13,8 +13,13 @@ Quick start:
     - php artisan db:seed
 
 User:
-    username: admin@gmail.com => pass: 123456789
-    username: user@gmail.com => pass: 123456789
+   - username: admin@gmail.com => pass: 123456789
+   - username: user@gmail.com => pass: 123456789
+
+Url (POST):
+   - localhost:8000/register
+   - localhost:8000/login
+   - localhost:8000/logout
 
 ## Official Documentation
 
